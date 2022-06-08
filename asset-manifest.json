@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rseact-form-validator/static/css/main.403e8b3b.css",
+    "main.js": "/rseact-form-validator/static/js/main.a45874ef.js",
+    "static/js/787.aeb39de0.chunk.js": "/rseact-form-validator/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/rseact-form-validator/index.html",
+    "main.403e8b3b.css.map": "/rseact-form-validator/static/css/main.403e8b3b.css.map",
+    "main.a45874ef.js.map": "/rseact-form-validator/static/js/main.a45874ef.js.map",
+    "787.aeb39de0.chunk.js.map": "/rseact-form-validator/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403e8b3b.css",
+    "static/js/main.a45874ef.js"
+  ]
+}
